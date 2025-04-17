@@ -1,8 +1,8 @@
-import React from "react";
-import "./globals.css";
+import Footer from "@/components/layout/Footer";
 import Header from "@/components/layout/Header";
 import { Urbanist } from "next/font/google";
-import Footer from "@/components/layout/Footer";
+import React from "react";
+import "./globals.css";
 
 const inter = Urbanist({
   weight: "400",
@@ -14,7 +14,7 @@ function RootLayout({ children }: { children: React.ReactNode }) {
   const footer = (
     <footer>
       <div className="border-t border-slate-500 mt-6 py-6 text-center text-slate-400">
-        <p>© NS Thingy</p>
+        <p>© Chhattisgarh Inside</p>
       </div>
     </footer>
   );
