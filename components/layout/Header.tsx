@@ -13,8 +13,8 @@ const Header = () => {
         <Link key="news" href="/news" className="text-xl " aria-label="news">
           News
         </Link>
-        <Link key="HRn" href="/" className="text-4xl font-bold" aria-label="hasnain">
-          HRn
+        <Link key="HRn" href="/" className="text-4xl font-bold" aria-label="chhattisgarh inside">
+          C.G.i
         </Link>
         <Link key="about" href="/about" className="text-xl " aria-label="about">
           About
@@ -34,7 +34,7 @@ const Header = () => {
           className="text-4xl font-extrabold py-5"
           aria-label="Chhattisgarh Inside"
         >
-          HRn
+          CGi
         </Link>
         <div className="flex justify-between text-lg font-extrabold px-[10%] py-5 select-none">
           <Link href="/" className="headerLink" aria-label="Home">
