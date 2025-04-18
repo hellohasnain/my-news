@@ -2,7 +2,7 @@
 title: "Google के खिलाफ 5 बिलियन पाउंड का मुकदमा, 2.5 लाख व्यवसायों ने लगाए एकाधिकार के आरोप "
 subtitle: "दुनिया की दिग्गज टेक कंपनी Google एक बार फिर कानूनी संकट में घिर गई है। ब्रिटेन में गूगल के खिलाफ 5 बिलियन पाउंड यानी करीब 55 हजार करोड़ रुपये का क्लास एक्शन मुकदमा दायर किया गया है। "
 date: "18-04-2025"
-featured_image: "/images/america.webp"
+featured_image: "/images/google.jpeg"
 category: ["News", "Tech "]
 author: "Hasnain Raza"
 ---
