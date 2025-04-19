@@ -2,7 +2,7 @@
 title: "सीबीएसई का फरमान : प्राचार्यों-शिक्षकों के लिए 50 घंटे की ट्रेनिंग अनिवार्य, बताए जाएंगे नैतिक मूल्य "
 subtitle: " सेंट्रल बोर्ड ऑफ सेकेंडरी एजूकेशन ने अपने सभी स्कूलों के प्रिंसिपल और टीचर्स के लिए नए नियम जारी किए हैं।"
 date: "19-04-2025"
-featured_image: "/images/cbse.jpg"
+featured_image: "/images/cbse.jpeg"
 category: ["News", "Education "]
 author: "Hasnain Raza"
 ---
