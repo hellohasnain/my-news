@@ -16,7 +16,7 @@ author: "Hasnain Raza"
 
 अब समय आ गया है कि जिम्मेदार अधिकारी इस मामले को गंभीरता से लें और जनता की सुरक्षा के लिए अविलंब उचित कदम उठाए।
 
-<img src="insta1.jpg" alt="Fire in Central Market" width="100%" />
+<img src="/images/insta1.jpg" alt="Fire in Central Market" width="100%" />
 ।
-<img src="insta2.jpg" alt="Fire in Central Market" width="100%" />
+<img src="/images/insta2.jpg" alt="Fire in Central Market" width="100%" />
 
