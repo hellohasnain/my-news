@@ -2,7 +2,7 @@
 title: " UPSC CSE Result 2024: शक्ति दुबे बनी टॉपर, फाइनल रिजल्ट जारी — यहां देखें पूरी लिस्ट"
 subtitle: "   "
 date: "22-04-2025"
-featured_image: "/images/upsc.avif"
+featured_image: "/images/images.jpeg"
 category: ["News", "Education "]
 author: "Hasnain Raza"
 ---
