@@ -1,5 +1,5 @@
 ---
-title: "  "
+title: "  Pahalgam Attack: जम्मू-कश्मीर आतंकी हमले में रायपुर के व्यापारी की मौत, CM साय ने जताया शोक"
 subtitle: "   "
 date: "22-04-2025"
 featured_image: "/images/pahalgam.jpg"
